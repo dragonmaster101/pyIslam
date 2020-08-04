@@ -16,7 +16,7 @@ import pyIslam.baselib_unit_test
 print('''Usage example of pyIslam
 -------------------------------------''')
 
-ar = ('Shafii, Maliki, Hambali', 'Hanafi')
+ar = ('Shafii', 'Maliki', 'Hambali', 'Hanafi')
 
 longitude = input('1. Enter the longitude of your city: ')
 
